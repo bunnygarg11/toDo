@@ -15,7 +15,7 @@
   "homepage": "http://127.0.0.1:3000/",
   "main": "server/app.js",
   "dependencies": {
-    "async": "^2.0.1",
+    "async": "^2.6.4",
     "body-parser": "^1.15.2",
     "chai-http": "^4.2.1",
     "chalk": "^2.4.1",
