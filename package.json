@@ -27,7 +27,7 @@
     "dotenv": "^2.0.0",
     "ejs": "^2.5.2",
     "errorhandler": "^1.4.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs-extra": "^2.1.2",
     "jbuilder": "^0.0.5",
     "lodash": "^4.17.11",
